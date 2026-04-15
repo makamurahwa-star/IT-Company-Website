@@ -1,0 +1,45 @@
+# HCSCI231 / HSWE221 Group Assignment Submission
+
+## GitHub Repository Link
+https://github.com/makamurahwa-star/IT-Company-Website.git
+
+## Group Members List
+
+| Name | Student ID | Role | GitHub Username |
+|------|------------|------|-----------------|
+| Tadiwanashe Murahwa | R243464E | Senior Developer (Team Lead) | https://github.com/makamurahwa-star |
+| Lyn Mushininga | R242555X  | Frontend Developer | https://github.com/mushiningalynn-ux |
+
+
+## Contributions Summary
+
+### Tadiwanashe Murahwa
+- Reviewed and merged 4 pull requests
+- Created feature-navbar branch
+- Improved navigation responsiveness
+
+
+### Lyn Mushininga
+- Created careers.html page
+- Improved CSS styling
+- Added counter animations
+- Fixed responsive design issues
+- 6 commits
+
+## Features Implemented
+1. Responsive navigation menu with mobile toggle
+2. Animated counter statistics
+3. FAQ accordion section
+4. Careers page with application form
+5. Database icons in portfolio section
+6. Wave animations in hero section
+7. Smooth scrolling navigation
+8. Back to top button
+
+## Pull Requests Created
+- PR #1: Feature-navbar (Merged)
+- PR #2: Feature-careers-page (Merged)
+- PR #3: Feature-css-improvements (Merged)
+
+## Conclusion
+All team members successfully collaborated using Git workflow. Each member created feature branches, made meaningful commits, and participated in pull request reviews.
